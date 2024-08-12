@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.printWidth": 120,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.maxColumn": 120,
+  "html.format.wrapLineLength": 80
+}
